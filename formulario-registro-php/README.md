@@ -14,7 +14,7 @@ Formulario de registro de usuarios con frontend en Bootstrap y backend en PHP co
 ```
 SignIn.html      → Formulario (Bootstrap)
 signin.css       → Estilos
-php_seguro.php   → Backend: validación, sentencia preparada, hash de contraseña
+php.php   → Backend: validación, sentencia preparada, hash de contraseña
 ```
 
 ## Tecnologías
